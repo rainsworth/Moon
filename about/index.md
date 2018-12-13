@@ -1,37 +1,10 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About
+tags: [about]
+date: 2018-12-13
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>I am a Research Associate in Radio Astronomy and Open Science Champion at the Jodrell Bank Centre for Astrophysics, University of Manchester, UK. I am a Mozilla Open Leader (Round 4 Open Project Lead, Round 5 Mentor and Cohort Host), fueling the Internet health movement through training, mentorship & working open best practices. I also organize a chapter of HER+Data in Manchester (<a href="https://twitter.com/herplusdatamcr">@herplusdatamcr</a>), a meetup group to bring together women who work with and love data - to support one another, inspire each other, share experiences and talk data. HER+Data MCR allows me to bridge the gap between academia and industry by connecting women across STEM fields. I am interested in community building and engagement, promoting openness, inclusivity and well-being in science and technology.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
