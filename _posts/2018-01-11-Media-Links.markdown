@@ -2,14 +2,13 @@
 layout: post
 title:  "Media Links"
 date:   2018-01-11
-excerpt: ""
+excerpt: "Links to various media such as blog posts, social media, interviews and videos associated with projects that I've been a part of, conveniently located in one place."
 project: true
 tags: []
-feature: /assets/img/some-image.png
+feature:
 comments: true
 ---
 
-Below is a list of links to various media such as blog posts, social media, interviews and videos associated with projects that I've been a part of, conveniently located in one place:
 
 # Astronomy
 

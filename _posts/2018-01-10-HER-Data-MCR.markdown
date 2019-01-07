@@ -4,8 +4,8 @@ title:  "HER+Data MCR"
 date:   2018-01-10
 excerpt: "I organise the women in data meetup group here in Manchester"
 project: true
-tags: [Women in STEM]
-feature: /assets/img/some-image.png
+tags: [Women in STEM, HER+Data MCR]
+feature:
 comments: true
 ---
 

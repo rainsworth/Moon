@@ -4,8 +4,8 @@ title:  "A GMRT survey of regions towards the Taurus molecular cloud at 323 and 
 date:   2017-01-31
 excerpt: "Access to the publication, data and code associated with this research is provided."
 project: true
-tags: [GMRT, Taurus, Survey, Open Data]
-feature: /assets/img/some-image.png
+tags: [GMRT, Open Science]
+feature:
 comments: true
 ---
 
