@@ -4,7 +4,7 @@ title:  "Media Links"
 date:   2018-01-11
 excerpt: "Links to various media such as blog posts, social media, interviews and videos associated with projects that I've been a part of, conveniently located in one place."
 project: true
-tags: []
+tags: [HER+Data MCR, Mozilla, Open Science]
 feature:
 comments: true
 ---
